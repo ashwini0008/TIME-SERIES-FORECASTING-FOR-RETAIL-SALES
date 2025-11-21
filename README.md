@@ -209,7 +209,7 @@ cd TIME-SERIES-FORECASTING-FOR-RETAIL-SALES
 
 2. **Install dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib seaborn statsmodels scipy scikit-learn torch
 ```
 
 3. **Run the notebooks:**
